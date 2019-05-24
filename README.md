@@ -1,6 +1,6 @@
 # My Portfolio Build v.1
 
-> See it here https://bigjoshcodes.dev
+> See it here:  https://bigjoshcodes.dev
 
 ---
 
